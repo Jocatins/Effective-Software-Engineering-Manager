@@ -73,3 +73,25 @@ At an abstract level, it’s a technique for helping your staff improve their pe
 -   Directive: This is where you’re instructing someone on what they should do. This is considered to be a “push” action, meaning you’re solving their problem for them.
 
 -   Following interest: Here, you’re predominantly listening to understand, reflecting on what they are saying and summarizing. This is a “pull” action, meaning you’re helping them solve their own problems.
+
+If you think about mentoring, you can see that it’s a relationship that is primarily directive. The mentor is teaching skills to the mentee. However, with coaching, the primary focus is trying to shift the conversation to follow their interests, which magically allows them to solve problems all by themselves.
+
+In reality, a coaching conversation will swing between these two different modes. You’ll purposefully use sentences that are questions, suggestions, and summaries in order to follow their interests and encourage them to come to a conclusion on their own:
+
+The rule of thumb is that at each point of the conversation, be conscious as to whether they are homing in on the answer and keep listening and suggesting until they do. If you think they’ll never get there, be more direct.
+
+Even if you’re the world’s most expert engineer, don’t tell them what to do if you want to practice coaching, especially if you know what the solution is.
+
+-   Keep the thought bubble over their head
+
+A good approach is the GROW model. For a given topic or problem, you’ll want to iterate through:
+
+-   Goal: What’s the goal of this session? What problem are we trying to solve?
+
+-   Reality: What’s the situation like now? Who, what, where, and how much?
+
+-   Options: What are all the different ways in which we can tackle this issue?
+
+-   Wrap-up: Make a clear choice, commit to it, and discuss what support is needed.
+
+Entering a coaching session with the GROW model in mind will help you keep the conversation on track if it begins to deviate. Let’s think about the previous example using this model.
